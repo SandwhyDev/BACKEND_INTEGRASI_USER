@@ -8,4 +8,4 @@ Content-Type: application/json
 }
 
 ###
-GET http://localhost:9000/api/user_read_all
+GET https://backend-integrasi-user.vercel.app/api/user_read_all
