@@ -1,0 +1,11 @@
+###
+POST http://localhost:9000/api/user_register
+Content-Type: application/json
+
+{
+    "email" : "sandy@gmail.com",
+    "password" : "123"
+}
+
+###
+GET http://localhost:9000/api/user_read_all
